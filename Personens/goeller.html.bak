@@ -1,0 +1,32 @@
+<div class="member">
+    <div class="head">
+        <h1>
+            Dipl.-Math. Robin G&ouml;ller
+        </h1>
+        <ul>
+            <li>&Uuml;bung:<br>
+                Diskrete Strukturen I
+            </li>
+        </ul>
+    </div><img alt="Foto -  G&ouml;ller" src="/mathfb16/WS12_13/Personen/Robin.jpg">
+    <ul class="contact">
+        <li>Fachbereich Mathematik und Naturwissenschaften<br>
+            Institut f&uuml;r Mathematik
+        </li>
+        <li>Heinrich-Plett-Stra&szlig;e 40<br>
+            34132 Kassel
+        </li>
+        <li>Tel.: +49 561 804 4763<br>
+            Fax: +49 561 804 4746
+        </li>
+        <li>E-Mail: <a href="mailto:rgoeller@mathematik.uni-kassel.de">rgoeller@mathematik.uni-kassel.de</a>
+        </li>
+        <li>
+            <a href="http://www.mathematik.uni-kassel.de/~rgoeller/" target="_blank">http://www.mathematik.uni-kassel.de/~rgoeller/</a>
+        </li>
+    </ul>
+    <div class="office-hour">
+        Sprechstunde:<br>
+        Do. 15:30 - 16:00 Uhr, Wilh. Allee. Raum 2303/2305
+    </div>
+</div> 
