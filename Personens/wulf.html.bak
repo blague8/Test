@@ -1,0 +1,30 @@
+<div class="member">
+    <div class="head">
+        <h1>
+            Dipl.-Math. Dominik Wulf
+        </h1>
+        <ul>
+            <li>&Uuml;bung:<br>
+                Diskrete Strukturen I
+            </li>
+        </ul>
+    </div><img alt="Foto - Wulf" src="/mathfb16/WS12_13/Personen/Wulf.jpg">
+    <ul class="contact">
+        <li>Fachbereich Mathematik und Naturwissenschaften<br>
+            Institut f&uuml;r Mathematik
+        </li>
+        <li>Heinrich-Plett-Stra&szlig;e 40<br>
+            34132 Kassel
+        </li>
+        <li>Tel.: +49 561 804 4578<br>
+            Fax: +49 561 804 4646
+        </li>
+        <li>E-Mail: <a href="mailto:dominik.wulf@mathematik.uni-kassel.de">
+        dominik.wulf@mathematik.uni-kassel.de</a>
+        </li>
+    </ul>
+    <div class="office-hour">
+        Sprechstunde:<br>
+      Mi. 12:00 - 12:30 Uhr, Wilh. Allee. Raum 2303/2305
+    </div>
+</div>

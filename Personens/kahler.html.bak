@@ -1,0 +1,22 @@
+<div class="member">
+    <div class="head">
+        <h1>
+            Frau Franziska Kahler
+        </h1>
+        <ul>
+            <li>Mathematik-Vorkurs
+            </li>
+        </ul>
+    </div><img src="/mathfb16/WS12_13/Personen/Kahler.jpg">
+    <ul class="contact">
+        <li>Fachbereich Mathematik und Naturwissenschaften<br>
+            Institut f&uuml;r Mathematik
+        </li>
+        <li>Wilhelmsh&ouml;her Allee 71 - 73<br>
+            34119 Kassel
+        </li>
+        <li>E-Mail: <a href="mailto:kahler@student.uni-kassel.de">kahler@student.uni-kassel.de</a>
+        </li>
+    </ul>
+    <div class="office-hour"></div>
+</div>

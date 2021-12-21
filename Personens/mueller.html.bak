@@ -1,0 +1,25 @@
+<div class="member">
+    <div class="head">
+        <h1>
+            Dr. Detlef M&uuml;ller
+        </h1>
+        <ul>
+            <li>Mathematik-Vorkurs
+            </li>
+        </ul>
+    </div><img alt="Foto - Detlef" src="/mathfb16/WS12_13/Personen/Mueller.png">
+    <ul class="contact">
+        <li>Fachbereich Mathematik und Naturwissenschaften<br>
+            Institut f&uuml;r Mathematik
+        </li>
+        <li>Wilhelmsh&ouml;her Allee 71 - 73<br>
+            34119 Kassel
+        </li>
+        <li>E-Mail: <a href="mailto:lef-65@arcor.de">lef-65@arcor.de</a>
+        </li>
+        <li>
+            <a href="http://www.mathe-doktor.de">http://www.mathe-doktor.de</a>
+        </li>
+    </ul>
+    <div class="office-hour"></div>
+</div>

@@ -1,0 +1,30 @@
+<div class="member">
+    <div class="head">
+        <h1>
+            Dr. D&ouml;rthe Janssen
+        </h1>
+        <ul>
+            <li>Mathematischer Br&uuml;ckenkurs
+            </li>
+        </ul>
+    </div><img alt="Foto - Janssen" src="/mathfb16/WS12_13/Personen/Janssen.jpg">
+    <ul class="contact">
+        <li>Fachbereich 16 Elektrotechnil/Informatik
+        </li>
+        <li>Wilhelmsh&ouml;her Allee  73<br>
+            34119 Kassel
+        </li>
+        <li>Tel.: +49 561 804 6302<br>
+           
+        </li>
+        <li>E-Mail: <a href="mailto:djanssen@uni-kassel.de">djanssen@uni-kassel.de</a>
+        </li>
+        <li>
+            <a href="http://www.mathematik.uni-kassel.de/~doerthe/" target="_blank">http://www.mathematik.uni-kassel.de/~doerthe</a>
+        </li>
+    </ul>
+    <div class="office-hour">
+        Sprechstunde:<br>
+        täglich 10:00 - 12:00 Uhr und nach Vereinbarung: Raum 0625
+    </div>
+</div>
