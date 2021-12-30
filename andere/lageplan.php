@@ -25,6 +25,19 @@ head('Lageplan');
                             <a href="#"><b>Vergangene Semester</b><span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
 									<?php 
+				    
+				    $ind = 0; 
+									$inde= 0;
+									$nom = 'WS21_22';
+									$nam = 'WS 2020/2021';
+									winter($ind, $inde, $nom, $nam); 
+                                
+									$ind = 0; 
+									$inde= 0;
+									$nom = 'SS_21';
+									$nam = 'SS 2020';
+									sommer($ind, $inde, $nom, $nam); 
+				    
 									$ind = 0; 
 									$inde= 0;
 									$nom = 'WS20_21';
