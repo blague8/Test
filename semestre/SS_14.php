@@ -26,6 +26,18 @@ head('SS_14');
                             <ul class="nav nav-second-level">
                                
 									<?php 
+				   				        $ind = 0; 
+									$inde= 0;
+									$nom = 'WS21_22';
+									$name= 'WS 2021/2022';
+									winter($ind, $inde, $nom, $name); 
+                                
+									$ind = 0; 
+									$inde= 0;
+									$nom = 'SS_21';
+									$name= 'SS 2021';
+									sommer($ind, $inde, $nom, $name); 
+				    
 									$ind = 0; 
 									$inde= 0;
 									$nom = 'WS20_21';
