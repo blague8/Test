@@ -29,13 +29,13 @@ head('Lageplan');
 				    $ind = 0; 
 									$inde= 0;
 									$nom = 'WS21_22';
-									$nam = 'WS 2020/2021';
+									$nam = 'WS 2021/2022';
 									winter($ind, $inde, $nom, $nam); 
                                 
 									$ind = 0; 
 									$inde= 0;
 									$nom = 'SS_21';
-									$nam = 'SS 2020';
+									$nam = 'SS 2021';
 									sommer($ind, $inde, $nom, $nam); 
 				    
 									$ind = 0; 
