@@ -234,7 +234,7 @@ function sommer($index, $indexe, $seme, $semester){
 					<a href="aktuelle.php?fach=6">Mathematik-Vorkurs</a>
 				</li>
 	<?php
-		}else {
+		}else{
 	?>
 		<a href="#"><?= $semester ?> <span class="fa arrow"></span></a>
 			<ul class="nav nav-third-level">
