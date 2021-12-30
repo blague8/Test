@@ -25,7 +25,7 @@ function titel (){
 								<span data-title="s">s</span>
 								<span data-title="t">t</span>
 								<span data-title="e">e</span>
-								<span data-title="r">r</span>
+								<span data-title="r">r</span><br>
 								<span data-title=" "> </span>
 								<span data-title="2">2</span>
 								<span data-title="0">0</span>
