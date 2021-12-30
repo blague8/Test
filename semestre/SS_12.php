@@ -25,6 +25,18 @@ head('SS_12');
                             <a href="#"><b>Vergangene Semester</b><span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
 									<?php 
+				    					$ind = 0; 
+									$inde= 0;
+									$nom = 'WS21_22';
+									$name= 'WS 2021/20212';
+									winter($ind, $inde, $nom, $name); 
+                                
+									$ind = 0; 
+									$inde= 0;
+									$nom = 'SS_21';
+									$name= 'SS 2021';
+									sommer($ind, $inde, $nom, $name); 
+				    
 									$ind = 0; 
 									$inde= 0;
 									$nom = 'WS20_21';
